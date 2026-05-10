@@ -33,8 +33,4 @@ class Config(BaseSettings):
 
 
 config = Config()
-<<<<<<< HEAD
 
-print(config.db.db_url)
-=======
->>>>>>> cc21696 (Deleted logging file, and rewrote config file:)
